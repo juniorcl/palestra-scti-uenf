@@ -1,4 +1,4 @@
-# Palestra Semana de Ciëncia e Tecnologia da Informação (SCTI)
+# Palestra Semana de Ciência e Tecnologia da Informação (SCTI)
 
 Conjunto de materiais utilizados na palestra sobre ciência de dados ocorridas durante a semana de ciência e tecnologia da informação ocorrida na UENF.
 
